@@ -41,7 +41,7 @@ UML 类图展示了各个类之间的关系和设计模式的应用。通过 UML
 **实现**：
 - `Builder` 类通过 `buildContainer` 和 `buildLeaf` 方法分步构建 `Node` 对象，并通过 `getResult` 方法返回构建的最终产品。
 
-<img src="assets/builder.png" alt="image-20240610202433630" style="zoom:80%;" />
+<img src="assets/Builder.png" alt="image-20240610202433630" style="zoom:80%;" />
 
 ### 4. 组合模式（Composite）
 
